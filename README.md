@@ -13,7 +13,7 @@ CAD assignment for 2020-2021 school year.
 ### Picture
 
 
-<img src="" width="300" height="195">
+<img src="Screenshot%202020-09-23%20at%207.27.15%20PM.png" width="300" height="195">
 <img src="" width="300" height="195">
 <img src="" width="300" height="195">
 <img src="" width="300" height="195">
