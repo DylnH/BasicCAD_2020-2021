@@ -12,4 +12,6 @@ CAD assignment for 2020-2021 school year.
 
 ### Picture
 
+<img src="">
+
 ### Lesson(s) Learned
