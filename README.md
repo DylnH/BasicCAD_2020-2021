@@ -7,7 +7,7 @@ CAD assignment for 2020-2021 school year.
 
 ### Description
 - This assignment was a way to get used to Onshape and the first step to creating a caster. The first part that we made was "The Base".
-- The Base is 200mm x 120mm x 8mm with 6 10mm sized holes offset from the edges by 20mm, and another hole 25mm in diameter on the midpoint.
+- The Base is 200mm x 120mm x 8mm with 6 10mm sized holes offset from the edges by 20mm, and another hole 25mm in diameter on the midpoint. (also have the midpoint of the of the document be 60mm from the left edge of the first sketch).
 - No fillet edges, no sweeping or lofting, very simple.
 
 ### Picture
