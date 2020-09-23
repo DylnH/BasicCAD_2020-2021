@@ -15,3 +15,6 @@ CAD assignment for 2020-2021 school year.
 <img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
 
 ### Lesson(s) Learned
+- I learned how easy it is to use Onshape
+- I learned that all you really need to recreate a part is to know the diamensions.
+- I learned that I am significantly better at CAD than Coding and that I should work to being equally great at both.
