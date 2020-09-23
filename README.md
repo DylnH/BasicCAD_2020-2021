@@ -12,6 +12,6 @@ CAD assignment for 2020-2021 school year.
 
 ### Picture
 
-<img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="300" height="195">
+<img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
 
 ### Lesson(s) Learned
