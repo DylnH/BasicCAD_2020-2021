@@ -10,7 +10,9 @@
 ### Picture
 
 <img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
+
 https://cvilleschools.onshape.com/documents/0f2162b70287bc231efdefc0/w/69f8aa654d8eb07609e9d93d/e/3ef6c088bf138fb9b1618570
+
 ### Lesson(s) Learned
 - I learned how easy it is to use Onshape
 - I learned that all you really need to recreate a part is to know the dimensions.
