@@ -29,4 +29,4 @@ ________________________________________________________________________________
 - No fillets, sweeps, or lofts required.
 
 ### Picture
-<img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
+<img src="Screenshot%202020-09-23%20at%205.06.35%20PM.png" width="350" height="228">
