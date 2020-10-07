@@ -42,4 +42,3 @@ https://cvilleschools.onshape.com/documents/7b591b19d3db559e9c9ad215/w/30c518979
 - I learned that the Onshape shortcuts make life a lot better.
 _________________________________________________________________________________________________________________________________________________________________________
 
-(I've done all of the caster still working on github. will be done soon.)
