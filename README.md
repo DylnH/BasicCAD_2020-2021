@@ -40,5 +40,6 @@ https://cvilleschools.onshape.com/documents/7b591b19d3db559e9c9ad215/w/30c518979
 - I learned that the mount is basically the base but shorter.
 - I learned that complex things are just made out of multiple simple things.
 - I learned that the Onshape shortcuts make life a lot better.
-_________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________ 
 
+<img scr="Screenshot%202020-09-23%20at%205.06.15%20PM.png">
