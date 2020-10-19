@@ -42,4 +42,4 @@ https://cvilleschools.onshape.com/documents/7b591b19d3db559e9c9ad215/w/30c518979
 - I learned that the Onshape shortcuts make life a lot better.
 _________________________________________________________________________________________________________________________________________________________________________ 
 
-<img scr="Screenshot%202020-10-19%20at%2012.58.49%20PM.png" width="302" height="292">
+<img scr="Screenshot%202020-10-19%20at%2012.58.49%20PM.png">
