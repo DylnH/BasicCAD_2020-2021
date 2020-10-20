@@ -62,3 +62,24 @@ https://cvilleschools.onshape.com/documents/0e7eafa660d0df697326a3bf/w/81269172f
 - I learned that the appearence panel is still against colorblind people.
 - I learned that butterflies taste with their feet while designing this.
 _______________________________________________________________________________________________________________________________________
+
+## - Tire
+
+### Description
+- This assignment was the fourth step to creating a caster.
+- The Tire is a trapezoid 10 degrees between its left side and the horizontal centerline, with a 20mm bottom side. it is also 40mm away from the vertical centerline and the top line is 55mm from the vert centerline.
+- Then you revolve that sketch and fillet the side by 8mm to make it look like a tire.
+
+### Link-
+
+https://cvilleschools.onshape.com/documents/043ea4cee1d084ade990c81c/w/61b1ac9bbda8f0af555a47b7/e/c5fa7a38ffef1bf71bbc0f24
+
+### Picture
+
+<img src="">
+
+### Lesson(s) Learned
+- I learned a few short cuts that you can use to be more efficient.
+- I learned that the appearence panel is still against colorblind people.
+- I learned that butterflies taste with their feet while designing this.
+_______________________________________________________________________________________________________________________________________
