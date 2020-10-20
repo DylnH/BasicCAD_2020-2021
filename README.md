@@ -88,8 +88,10 @@ ________________________________________________________________________________
 
 ### Description
 - This assignment was the fifth step to creating a caster. this one is a bit more complex... so here's a picture of the first sketch dowm below. then you revolve it. next you create a "V" shaped sketch on Left that is 60 degrees and centered with Front plane. create two circles on the same sketch. one 60 and one 36, both on the origin. Then extrude cut that sketch and use a Featured cicular pattern 6 times. then cut a 10mm hole through the center.
-- do some fillets and chamfers to your liking and your done
+- do some fillets and chamfers to your liking and your done.
 
+Sketch Here!!!
+<img src="Screenshot%202020-10-20%20at%2012.56.23%20AM.png?raw=true">
 
 ### Link-
 
