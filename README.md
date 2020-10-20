@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
 ### Picture
 
-<img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
+<img src="Screenshot%202020-10-19%20at%2012.58.49%20PM.png?raw=true" width="350" height="228">
 
 ### Lesson(s) Learned
 - I learned how easy it is to use Onshape.
