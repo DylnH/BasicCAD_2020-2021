@@ -76,10 +76,10 @@ https://cvilleschools.onshape.com/documents/043ea4cee1d084ade990c81c/w/61b1ac9bb
 
 ### Picture
 
-<img src="">
+<img src="Screenshot%202020-10-20%20at%2012.39.20%20AM.png?raw=true">
 
 ### Lesson(s) Learned
-- I learned a few short cuts that you can use to be more efficient.
-- I learned that the appearence panel is still against colorblind people.
-- I learned that butterflies taste with their feet while designing this.
+- I learned that I can get a part done in under a minute.
+- I learned that there are many ways to do the same thing.
+- I learned you can see how a part would move, if attached to something in assembly.
 _______________________________________________________________________________________________________________________________________
