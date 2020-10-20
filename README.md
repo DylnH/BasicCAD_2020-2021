@@ -83,3 +83,24 @@ https://cvilleschools.onshape.com/documents/043ea4cee1d084ade990c81c/w/61b1ac9bb
 - I learned that there are many ways to do the same thing.
 - I learned you can see how a part would move, if attached to something in assembly.
 _______________________________________________________________________________________________________________________________________
+
+## - Wheel
+
+### Description
+- This assignment was the fifth step to creating a caster.
+- The Wheel is a 
+
+### Link-
+
+https://cvilleschools.onshape.com/documents/d651b1e836be9d073185c01f/w/a3a1b5fc2f7e5d7fb8ad8162/e/6f13348522e3cf3ae6c1d96c
+
+### Picture
+
+<img src="">
+
+### Lesson(s) Learned
+- I learned that I can get a part done in under a minute.
+- I learned that there are many ways to do the same thing.
+- I learned you can see how a part would move, if attached to something in assembly.
+_______________________________________________________________________________________________________________________________________
+
