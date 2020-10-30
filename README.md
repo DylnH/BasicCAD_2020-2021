@@ -175,7 +175,7 @@ don't didn't make the document so heres a video.
 
 ### Picture
 
-<img src="">
+<img src="Screenshot%202020-10-29%20at%2011.09.58%20PM.png?raw=true">
 
 
 ### Lesson(s) Learned
