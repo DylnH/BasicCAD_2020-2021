@@ -88,7 +88,7 @@ ________________________________________________________________________________
 
 ### Description
 - This assignment was the fifth step to creating a caster. this one is a bit more complex... so here's a picture of the first sketch dowm below. then you revolve it. next you create a "V" shaped sketch on Left that is 60 degrees and centered with Front plane. create two circles on the same sketch. one 60 and one 36, both on the origin. Then extrude cut that sketch and use a Featured cicular pattern 6 times. then cut a 10mm hole through the center.
-- do some fillets and chamfers to your liking and your done.
+- do some fillets and chamfers to your liking and your done. there are also two bearing types you'll need to make. one 20mm in diameter with a 10mm hole, and the other 30mm and 20mm. both extruded by 5mm.
 
 Sketch Here!!!
 
@@ -111,16 +111,10 @@ ________________________________________________________________________________
 ## - Axle and collar
 
 ### Description
-- This assignment was the fifth step to creating a caster. this one is a bit more complex... so here's a picture of the first sketch dowm below. then you revolve it. next you create a "V" shaped sketch on Left that is 60 degrees and centered with Front plane. create two circles on the same sketch. one 60 and one 36, both on the origin. Then extrude cut that sketch and use a Featured cicular pattern 6 times. then cut a 10mm hole through the center.
-- do some fillets and chamfers to your liking and your done.
-
-Sketch Here!!!
-
-<img src="Screenshot%202020-10-20%20at%2012.56.23%20AM.png?raw=true">
+- This assignment was the sixth step to creating a caster. for the caster, you need to make a 10mm cirlce and a 6mm cirlce on the origon and then extrude it 60mm.then cut out a two notch at the edges by sketching a line 4.5mm away from the origon. axle complete. now with the collar, make a 15mm cirle and a 10mm cirlce on the edge of part 1. cut out of 3mm hole through part. two.
 
 ### Link-
 
-https://cvilleschools.onshape.com/documents/d651b1e836be9d073185c01f/w/a3a1b5fc2f7e5d7fb8ad8162/e/6f13348522e3cf3ae6c1d96c
 
 ### Picture
 
