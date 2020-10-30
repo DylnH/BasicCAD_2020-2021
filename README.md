@@ -145,3 +145,22 @@ https://cvilleschools.onshape.com/documents/abd35a43cb303a87df9b5542/w/b0d12276b
 - I learned the basics on mates
 - I learned that I winning it isn't always the best option... eventhough it the best option most of the time :)
 _______________________________________________________________________________________________________________________________________
+
+## - Challenge
+
+### Description
+- This assignment was a challenge to test your Cad Skillz. first, to make a cude with four cylinders sticking out the side, then you and a fork, simular to the caster, and a brace to hold them all together. the mates you use should make the everything spin.
+
+### Link-
+https://cvilleschools.onshape.com/documents/bba7dfe45fe86e76118cf2c8/w/6fd0e535dc52070a25dff92f/e/136e1394cc982d59a3007d6c
+
+### Picture
+
+<img src="Screenshot%202020-10-29%20at%2010.34.19%20PM.png?raw=true">
+
+
+### Lesson(s) Learned
+- using a screen recorder is fun...
+_______________________________________________________________________________________________________________________________________
+
+https://drive.google.com/file/d/1g8YFAOGncRFp_0FvCb-3TNNjHzZD_mup/view
