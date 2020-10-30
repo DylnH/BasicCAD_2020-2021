@@ -120,8 +120,9 @@ ________________________________________________________________________________
 
 <img src="Screenshot%202020-10-29%20at%209.34.20%20PM.png?raw=true">
 
+<img src="Screenshot%202020-10-29%20at%2010.24.37%20PM.png?raw=true">
+(big bearing. info in wheel)
+
 ### Lesson(s) Learned
-- I learned how to use circular patterns on Onshape.
-- I learned that that wheels are pretty basic.
-- I learned that the split feature will scare you if you just trying to fillet something and the hole part just "splits" in half.
+- I learned how to put mutiple parts in one document.
 _______________________________________________________________________________________________________________________________________
