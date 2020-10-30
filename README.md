@@ -157,6 +157,8 @@ https://cvilleschools.onshape.com/documents/bba7dfe45fe86e76118cf2c8/w/6fd0e535d
 
 <img src="">
 
+### Video
+https://drive.google.com/file/d/14YtldBerg1vGlDySyk3Bxh7I5H_z_jSt/view
 
 ### Lesson(s) Learned
 - using a screen recorder is fun...
