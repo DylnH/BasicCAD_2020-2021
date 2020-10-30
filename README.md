@@ -114,7 +114,26 @@ ________________________________________________________________________________
 - This assignment was the sixth step to creating a caster. for the caster, you need to make a 10mm cirlce and a 6mm cirlce on the origon and then extrude it 60mm.then cut out a two notch at the edges by sketching a line 4.5mm away from the origon. axle complete. now with the collar, make a 15mm cirle and a 10mm cirlce on the edge of part 1. cut out of 3mm hole through part. two.
 
 ### Link-
+https://cvilleschools.onshape.com/documents/9cb27be1d754a7f24a10e96c/w/f6b01fb2d99817919b338613/e/7c88043726c9dddb564bf9e2
 
+### Picture
+
+<img src="Screenshot%202020-10-29%20at%209.34.20%20PM.png?raw=true">
+
+<img src="Screenshot%202020-10-29%20at%2010.24.37%20PM.png?raw=true">
+(big bearing. info in wheel)
+
+### Lesson(s) Learned
+- I learned how to put mutiple parts in one document.
+_______________________________________________________________________________________________________________________________________
+
+## - Caster
+
+### Description
+- This assignment was the final step to creating a caster. I'm not going to lie, while doing this assignment, I wasn't the best with Onshape's mate system, but I got in to work. It's basically a much of cylindrical mates because there are alot of holes. but if you get past that your golden
+
+### Link-
+https://cvilleschools.onshape.com/documents/abd35a43cb303a87df9b5542/w/b0d12276ba73d67105e7e878/e/e5c9eb7c7d51a654facb08e9
 
 ### Picture
 
