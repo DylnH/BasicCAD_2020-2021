@@ -108,3 +108,26 @@ https://cvilleschools.onshape.com/documents/d651b1e836be9d073185c01f/w/a3a1b5fc2
 - I learned that the split feature will scare you if you just trying to fillet something and the hole part just "splits" in half.
 _______________________________________________________________________________________________________________________________________
 
+## - Axle and collar
+
+### Description
+- This assignment was the fifth step to creating a caster. this one is a bit more complex... so here's a picture of the first sketch dowm below. then you revolve it. next you create a "V" shaped sketch on Left that is 60 degrees and centered with Front plane. create two circles on the same sketch. one 60 and one 36, both on the origin. Then extrude cut that sketch and use a Featured cicular pattern 6 times. then cut a 10mm hole through the center.
+- do some fillets and chamfers to your liking and your done.
+
+Sketch Here!!!
+
+<img src="Screenshot%202020-10-20%20at%2012.56.23%20AM.png?raw=true">
+
+### Link-
+
+https://cvilleschools.onshape.com/documents/d651b1e836be9d073185c01f/w/a3a1b5fc2f7e5d7fb8ad8162/e/6f13348522e3cf3ae6c1d96c
+
+### Picture
+
+<img src="Screenshot%202020-10-29%20at%209.34.20%20PM.png?raw=true">
+
+### Lesson(s) Learned
+- I learned how to use circular patterns on Onshape.
+- I learned that that wheels are pretty basic.
+- I learned that the split feature will scare you if you just trying to fillet something and the hole part just "splits" in half.
+_______________________________________________________________________________________________________________________________________
