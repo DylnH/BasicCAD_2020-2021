@@ -153,10 +153,9 @@ ________________________________________________________________________________
 
 ### Link-
 https://cvilleschools.onshape.com/documents/bba7dfe45fe86e76118cf2c8/w/6fd0e535dc52070a25dff92f/e/136e1394cc982d59a3007d6c
-
 ### Picture
 
-<img src="Screenshot%202020-10-29%20at%2010.34.19%20PM.png?raw=true">
+<img src="">
 
 
 ### Lesson(s) Learned
