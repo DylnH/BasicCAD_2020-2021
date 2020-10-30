@@ -137,11 +137,11 @@ https://cvilleschools.onshape.com/documents/abd35a43cb303a87df9b5542/w/b0d12276b
 
 ### Picture
 
-<img src="Screenshot%202020-10-29%20at%209.34.20%20PM.png?raw=true">
+<img src="Screenshot%202020-10-29%20at%2010.34.19%20PM.png?raw=true">
 
-<img src="Screenshot%202020-10-29%20at%2010.24.37%20PM.png?raw=true">
-(big bearing. info in wheel)
 
 ### Lesson(s) Learned
-- I learned how to put mutiple parts in one document.
+- I learned how the basics on assemblies
+- I learned the basics on mates
+- I learned that I winning it isn't always the best option... eventhough it the best option most of the time :)
 _______________________________________________________________________________________________________________________________________
