@@ -39,7 +39,7 @@ https://cvilleschools.onshape.com/documents/7b591b19d3db559e9c9ad215/w/30c518979
 ### Lessen(s) Learned
 - I learned that the mount is basically the base but shorter.
 - I learned that the Onshape shortcuts make life a lot better.
-- I didn't run into any challenges, however I feel like if I made a copy of the base/Part#1, all I wouldv'e neede to do is make a cut and it wouldv't taken 30 sec to do this part.
+- I didn't run into any challenges, however I feel like if I made a copy of the base/Part#1, all I would've neede to do is make a cut and it would've taken 30 sec to do this part.
 _________________________________________________________________________________________________________________________________________________________________________ 
 
 ## - Fork
@@ -59,8 +59,8 @@ https://cvilleschools.onshape.com/documents/0e7eafa660d0df697326a3bf/w/81269172f
 
 ### Lesson(s) Learned
 - I learned a few short cuts that you can use to be more efficient.
-- I learned that the appearence panel is still against colorblind people.
-- I learned that butterflies taste with their feet while designing this.
+- I feel like I could've done a few more efficient shetches than what I was told to do, but it still got the jod done
+- didn't run into any challenges, but could've done this more efficiently by using certain shortcuts.
 _______________________________________________________________________________________________________________________________________
 
 ## - Tire
@@ -79,9 +79,10 @@ https://cvilleschools.onshape.com/documents/043ea4cee1d084ade990c81c/w/61b1ac9bb
 <img src="Screenshot%202020-10-20%20at%2012.39.20%20AM.png?raw=true">
 
 ### Lesson(s) Learned
-- I learned that I can get a part done in under a minute.
-- I learned that there are many ways to do the same thing.
+
 - I learned you can see how a part would move, if attached to something in assembly.
+- this part went as smoothly as #1 and #2. no problems
+- I leanred how to put mulitple parts, assemblies, pictures, and videos in one document.
 _______________________________________________________________________________________________________________________________________
 
 ## - Wheel
@@ -104,8 +105,7 @@ https://cvilleschools.onshape.com/documents/d651b1e836be9d073185c01f/w/a3a1b5fc2
 
 ### Lesson(s) Learned
 - I learned how to use circular patterns on Onshape.
-- I learned that that wheels are pretty basic.
-- I learned that the split feature will scare you if you just trying to fillet something and the hole part just "splits" in half.
+- The circular pattern feature on Onshape is very simular to Solidworks so it was ver simple to use.
 _______________________________________________________________________________________________________________________________________
 
 ## - Axle and collar
@@ -124,7 +124,8 @@ https://cvilleschools.onshape.com/documents/9cb27be1d754a7f24a10e96c/w/f6b01fb2d
 (big bearing. info in wheel)
 
 ### Lesson(s) Learned
-- I learned how to put mutiple parts in one document.
+- I learned that you can make new ducument just by extruding and instead of selecting "Add" selected "New" instead.
+- didn't run into many cahallenges. just needed to work out more complex sketching mechanics.
 _______________________________________________________________________________________________________________________________________
 
 ## - Caster
@@ -143,7 +144,7 @@ https://cvilleschools.onshape.com/documents/abd35a43cb303a87df9b5542/w/b0d12276b
 ### Lesson(s) Learned
 - I learned how the basics on assemblies
 - I learned the basics on mates
-- I learned that I winning it isn't always the best option... eventhough it the best option most of the time :)
+- ran into some challenges working out a new mating system. if I went back to it, there would be way less mates and things would line up better. I was dealing with not knowing which mates to use but got it to work decently.
 _______________________________________________________________________________________________________________________________________
 
 ## - Challenge
@@ -161,6 +162,7 @@ https://cvilleschools.onshape.com/documents/bba7dfe45fe86e76118cf2c8/w/6fd0e535d
 https://drive.google.com/file/d/14YtldBerg1vGlDySyk3Bxh7I5H_z_jSt/view
 
 ### Lesson(s) Learned
+- ran into a minor challenge with mates, but I figured it out.
 - using a screen recorder is fun...
 _______________________________________________________________________________________________________________________________________
 
@@ -181,4 +183,5 @@ didn't make the document so heres a video.
 ### Lesson(s) Learned
 - things go quick when 3 CAD wizzez are at work.
 - I now know and feel confortable with Onshapes mating system.
+- the only real challenge was just working together but it didn't effect use that much.
 _______________________________________________________________________________________________________________________________________
