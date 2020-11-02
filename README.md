@@ -171,7 +171,7 @@ ________________________________________________________________________________
 
 ### Link-
 https://drive.google.com/file/d/1g8YFAOGncRFp_0FvCb-3TNNjHzZD_mup/view
-don't didn't make the document so heres a video.
+didn't make the document so heres a video.
 
 ### Picture
 
@@ -182,5 +182,3 @@ don't didn't make the document so heres a video.
 - things go quick when 3 CAD wizzez are at work.
 - I now know and feel confortable with Onshapes mating system.
 _______________________________________________________________________________________________________________________________________
-
-https://drive.google.com/file/d/1g8YFAOGncRFp_0FvCb-3TNNjHzZD_mup/view
