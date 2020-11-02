@@ -38,8 +38,8 @@ https://cvilleschools.onshape.com/documents/7b591b19d3db559e9c9ad215/w/30c518979
 
 ### Lessen(s) Learned
 - I learned that the mount is basically the base but shorter.
-- I learned that complex things are just made out of multiple simple things.
 - I learned that the Onshape shortcuts make life a lot better.
+- I didn't run into any challenges, however I feel like if I made a copy of the base/Part#1, all I wouldv'e neede to do is make a cut and it wouldv't taken 30 sec to do this part.
 _________________________________________________________________________________________________________________________________________________________________________ 
 
 ## - Fork
