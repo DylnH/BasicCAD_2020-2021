@@ -1,8 +1,5 @@
 # BasicCAD_2020-2021
 
-* [Base](# - Base)
-...
-
 
 ## - Base
 
