@@ -175,14 +175,14 @@ https://drive.google.com/file/d/14YtldBerg1vGlDySyk3Bxh7I5H_z_jSt/view
 - using a screen recorder is fun...
 _______________________________________________________________________________________________________________________________________
 
-## - Group collab
+## - Group Collaboration
 
 ### Description
 - This assignment was a group team build thingawabob that we did in one class period. Bob and Alden did two parts each and I did two aswell. I made the pump and rod. I first imported an image if the pump that was already given and traced it in a sketch. then I made a a cylinder, cut a hole in it and mated my parts to theirs.
 
 ### Link-
 
-### [- Challenge in Onshape](https://drive.google.com/file/d/1g8YFAOGncRFp_0FvCb-3TNNjHzZD_mup/view)
+### [- Group Collaboration in Onshape](https://drive.google.com/file/d/1g8YFAOGncRFp_0FvCb-3TNNjHzZD_mup/view)
 didn't make the document so heres a video.
 
 ### Picture
