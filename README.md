@@ -102,7 +102,7 @@ Sketch Here!!!
 
 ### Link-
 
-https://cvilleschools.onshape.com/documents/d651b1e836be9d073185c01f/w/a3a1b5fc2f7e5d7fb8ad8162/e/6f13348522e3cf3ae6c1d96c
+### [- Wheel in Onshape](https://cvilleschools.onshape.com/documents/d651b1e836be9d073185c01f/w/a3a1b5fc2f7e5d7fb8ad8162/e/6f13348522e3cf3ae6c1d96c)
 
 ### Picture
 
@@ -119,7 +119,8 @@ ________________________________________________________________________________
 - This assignment was the sixth step to creating a caster. for the caster, you need to make a 10mm cirlce and a 6mm cirlce on the origon and then extrude it 60mm.then cut out a two notch at the edges by sketching a line 4.5mm away from the origon. axle complete. now with the collar, make a 15mm cirle and a 10mm cirlce on the edge of part 1. cut out of 3mm hole through part. two.
 
 ### Link-
-https://cvilleschools.onshape.com/documents/9cb27be1d754a7f24a10e96c/w/f6b01fb2d99817919b338613/e/7c88043726c9dddb564bf9e2
+
+### [- Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/9cb27be1d754a7f24a10e96c/w/f6b01fb2d99817919b338613/e/7c88043726c9dddb564bf9e2)
 
 ### Picture
 
@@ -139,7 +140,8 @@ ________________________________________________________________________________
 - This assignment was the final step to creating a caster. I'm not going to lie, while doing this assignment, I wasn't the best with Onshape's mate system, but I got in to work. It's basically a much of cylindrical mates because there are alot of holes. but if you get past that your golden
 
 ### Link-
-https://cvilleschools.onshape.com/documents/abd35a43cb303a87df9b5542/w/b0d12276ba73d67105e7e878/e/e5c9eb7c7d51a654facb08e9
+
+### [- Caster in Onshape](https://cvilleschools.onshape.com/documents/abd35a43cb303a87df9b5542/w/b0d12276ba73d67105e7e878/e/e5c9eb7c7d51a654facb08e9)
 
 ### Picture
 
@@ -158,7 +160,9 @@ ________________________________________________________________________________
 - This assignment was a challenge to test your Cad Skillz. first, to make a cude with four cylinders sticking out the side, then you and a fork, simular to the caster, and a brace to hold them all together. the mates you use should make the everything spin.
 
 ### Link-
-https://cvilleschools.onshape.com/documents/bba7dfe45fe86e76118cf2c8/w/6fd0e535dc52070a25dff92f/e/136e1394cc982d59a3007d6c
+
+### [- Challenge in Onshape](https://cvilleschools.onshape.com/documents/bba7dfe45fe86e76118cf2c8/w/6fd0e535dc52070a25dff92f/e/136e1394cc982d59a3007d6c)
+
 ### Picture
 
 <img src="Screenshot%202020-10-29%20at%2010.47.50%20PM.png?raw=true">
@@ -177,7 +181,8 @@ ________________________________________________________________________________
 - This assignment was a group team build thingawabob that we did in one class period. Bob and Alden did two parts each and I did two aswell. I made the pump and rod. I first imported an image if the pump that was already given and traced it in a sketch. then I made a a cylinder, cut a hole in it and mated my parts to theirs.
 
 ### Link-
-https://drive.google.com/file/d/1g8YFAOGncRFp_0FvCb-3TNNjHzZD_mup/view
+
+### [- Challenge in Onshape](https://drive.google.com/file/d/1g8YFAOGncRFp_0FvCb-3TNNjHzZD_mup/view)
 didn't make the document so heres a video.
 
 ### Picture
