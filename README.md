@@ -183,7 +183,7 @@ ________________________________________________________________________________
 ### Link-
 
 ### [- Group Collaboration in Onshape](https://drive.google.com/file/d/1g8YFAOGncRFp_0FvCb-3TNNjHzZD_mup/view)
-didn't make the document so heres a video.
+(didn't make the document so heres a video.)
 
 ### Picture
 
