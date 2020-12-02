@@ -12,8 +12,6 @@
 
 ### [- Base in Onshape](https://cvilleschools.onshape.com/documents/0f2162b70287bc231efdefc0/w/69f8aa654d8eb07609e9d93d/e/3ef6c088bf138fb9b1618570)
 
-
-
 ### Picture
 
 <img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
